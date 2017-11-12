@@ -19,7 +19,7 @@ export default {
     marginBottom: 20
   },
   view: {
-    color: "#5ab"
+    backgroundColor: "#5ab"
   },
   header: {
     backgroundColor: red
